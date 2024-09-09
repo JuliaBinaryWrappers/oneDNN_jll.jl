@@ -1,0 +1,102 @@
+[[oneDNN]]
+arch = "aarch64"
+git-tree-sha1 = "ffa179a94e970e6e390a6b6f4d86d59b588a489f"
+os = "macos"
+
+    [[oneDNN.download]]
+    sha256 = "d87c35792ed18fce94a66cb698d4defc023ff834e2e96c5ae54d872094209e18"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.aarch64-apple-darwin.tar.gz"
+[[oneDNN]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "53d5be48a8f464b27fc73d8510225db0dd3280f5"
+libc = "glibc"
+os = "linux"
+
+    [[oneDNN.download]]
+    sha256 = "2563d3d6f5f956594e32d17d6c6bdbfb37dd26977b93ff6a8585d60909165933"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.aarch64-linux-gnu-cxx03.tar.gz"
+[[oneDNN]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f359566ada90d08730484738a3e5516eaea71b8d"
+libc = "glibc"
+os = "linux"
+
+    [[oneDNN.download]]
+    sha256 = "7929aede3da59b7d460810c5260b7c3606da2ed163e9b39b4ef2445fcbc2a3ac"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[oneDNN]]
+arch = "x86_64"
+git-tree-sha1 = "f43568f85736fcf8737e7d980e3c299d270ce252"
+os = "macos"
+
+    [[oneDNN.download]]
+    sha256 = "f26cf7431e8f2f9806be0231f6e7dbdfb30bebabc21f6f5afda9a0d39f97c9ae"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.x86_64-apple-darwin.tar.gz"
+[[oneDNN]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "963b5a2091f6d18c29dd0ee3a723f69626a8e8e1"
+libc = "glibc"
+os = "linux"
+
+    [[oneDNN.download]]
+    sha256 = "fb6df32cf06a5e90e332fa9e1abc87d0b8cddb9999d734266767bdcd958bf182"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[oneDNN]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f83bb27bdf1bd63945564595e3dd3e48477f30d8"
+libc = "glibc"
+os = "linux"
+
+    [[oneDNN.download]]
+    sha256 = "60f103e3814e76bce2642246ea9721ba5ca22d95eb80a8da54981d84d7d848b6"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[oneDNN]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d0fad9b72e26a6a56fcf1ca5545ad06318d990f"
+libc = "musl"
+os = "linux"
+
+    [[oneDNN.download]]
+    sha256 = "a080c111a12d85b554410c77b5894b58983b3a0c2d7c571dded040cc85a297a9"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.x86_64-linux-musl-cxx03.tar.gz"
+[[oneDNN]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f2469952d49d8b3258c5bcd23195efbc58268d95"
+libc = "musl"
+os = "linux"
+
+    [[oneDNN.download]]
+    sha256 = "3fe4a2fc0457f1151e6915ee04377a71b5dd5ce2500082d25d3c21eebca568a5"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.x86_64-linux-musl-cxx11.tar.gz"
+[[oneDNN]]
+arch = "x86_64"
+git-tree-sha1 = "5d72f07c2fc89b6d61879bfd89ee8c41f73b0d81"
+os = "freebsd"
+
+    [[oneDNN.download]]
+    sha256 = "094daecf691395bd47d949c975e5fb3d865913eb99022be67f473e61395a3855"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.x86_64-unknown-freebsd.tar.gz"
+[[oneDNN]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "367943f98eb268fd898f9ff5dc7b45446320022f"
+os = "windows"
+
+    [[oneDNN.download]]
+    sha256 = "f628472e0e8d5a2fbbdd9553eaf3ff1e5e88de0dda4845650e62840fdb746749"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.x86_64-w64-mingw32-cxx03.tar.gz"
+[[oneDNN]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35fe36653caa80138466cb947c4cca653b6b48a3"
+os = "windows"
+
+    [[oneDNN.download]]
+    sha256 = "bf9b33b676f50827d08de6770f00c4aba5e819d5b0cacba8351f7d8042ef0026"
+    url = "https://github.com/JuliaBinaryWrappers/oneDNN_jll.jl/releases/download/oneDNN-v3.5.3+0/oneDNN.v3.5.3.x86_64-w64-mingw32-cxx11.tar.gz"
